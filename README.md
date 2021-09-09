@@ -60,6 +60,7 @@ It is however not obvious to me if there are settings to more effectively use me
 Since I have basecalling to perform for a project, I will for now use settings from the above trial and will expiriment more once I have time.
 
 #### Trial 3
+```
 config file:        /opt/ont/guppy/data/dna_r9.4.1_450bps_hac.cfg
 model file:         /opt/ont/guppy/data/template_r9.4.1_450bps_hac.jsn
 input path:         /fast5_test/
@@ -82,7 +83,7 @@ Caller time: 74322 ms, Samples called: 655797880, samples/s: 8.82374e+06
 Finishing up any open output files.
 Basecalling completed successfully.
 ```
-####Trial 4
+#### Trial 4
 ```
 ONT Guppy basecalling software version 5.0.14+8f53ee955
 config file:        /opt/ont/guppy/data/dna_r9.4.1_450bps_hac.cfg
